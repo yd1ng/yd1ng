@@ -91,7 +91,6 @@ Vulnerability Research
 
 ## CVEs
 
-> Security vulnerabilities responsibly disclosed to open-source projects.
 
 ```text
 CVE-2026-14209
