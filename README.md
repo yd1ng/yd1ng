@@ -105,7 +105,7 @@
 <p>
 
 <a href="https://yd1ng.me">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
 <a href="https://yd1ng.me/posts">
