@@ -6,12 +6,8 @@
 
 Security Researcher specializing in Web Security, Vulnerability Research, and AI-assisted Security Analysis.
 
-<a href="https://yd1ng.me">
-<img src="https://img.shields.io/badge/Website-yd1ng.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://yd1ng.me/posts">
-<img src="https://img.shields.io/badge/Blog-Posts-111827?style=for-the-badge&logo=markdown&logoColor=white"/>
-</a>
+[![Website](https://img.shields.io/badge/Website-yd1ng.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yd1ng.me)
+[![Blog](https://img.shields.io/badge/Blog-Posts-111827?style=for-the-badge&logo=markdown&logoColor=white)](https://yd1ng.me/posts)
 
 </div>
 
@@ -19,7 +15,7 @@ Security Researcher specializing in Web Security, Vulnerability Research, and AI
 
 # About
 
-I'm an undergraduate student interested in offensive security and secure software development.
+I'm an undergraduate student passionate about offensive security, vulnerability research, and secure software development.
 
 My primary interests include:
 
@@ -28,7 +24,7 @@ My primary interests include:
 - Authentication & Authorization
 - Open Source Security
 - Vulnerability Research
-- AI for Security
+- AI-assisted Security Research
 
 ---
 
@@ -59,49 +55,57 @@ My primary interests include:
 
 - Web Application Security
 - Open Source Security
-- Vulnerability Research
 - Authentication & Authorization
+- Access Control
 - Static Analysis
 - AI-assisted Security Research
+- Bug Bounty
+- Vulnerability Research
 
 ---
 
-# CVE & Security Research
+# CVEs & Security Advisories
 
 <table>
 <tr>
-<td width="33%">
 
-### Reported
+<td width="50%" valign="top">
 
-Security vulnerabilities reported through responsible disclosure.
+## CVE-2026-14209
+
+**Project**
+
+Keycloak
+
+**Type**
+
+Authentication / Authorization
+
+**Status**
+
+Assigned & Fixed
+
+**Summary**
+
+Discovered and responsibly disclosed an authentication and authorization vulnerability in Keycloak, resulting in the assignment of **CVE-2026-14209**.
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-### Confirmed
+## Security Research
 
-Issues acknowledged by vendors and open-source maintainers.
-
-</td>
-
-<td width="33%">
-
-### Published
-
-CVE entries and public write-ups after disclosure.
+- Responsible Disclosure
+- Bug Bounty
+- Source Code Review
+- Open Source Security
+- Vulnerability Research
+- AI-assisted Analysis
 
 </td>
 
 </tr>
 </table>
-
-| Year | Vendor / Project | Status |
-|------|------------------|--------|
-| 2026 | Apache Kafka | Pending Disclosure |
-| 2026 | Keycloak | Multiple Security Reports |
-| ... | More Coming | 🚀 |
 
 ---
 
@@ -142,39 +146,46 @@ CVE entries and public write-ups after disclosure.
 # Activities
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### INCOGNITO 2026 CTF
 
+**Role**
+
 Challenge Author
 
-Hard-level Web Challenge
+**Contribution**
 
-`Web`
+Designed and developed a hard-level web challenge.
+
+**Tags**
+
 `CTF`
-`Challenge Authoring`
+`Web`
+`Challenge Author`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Security Research
 
-Responsible Disclosure
+Focused on discovering vulnerabilities in open-source software and enterprise applications through source code review and offensive security research.
 
-Bug Bounty
+**Tags**
 
-Source Code Review
-
-`Web`
-`IAM`
+`Web Security`
 `Open Source`
+`IAM`
+`Bug Bounty`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -189,9 +200,13 @@ Source Code Review
 
 ## LLM-Based B2B Vulnerability Analysis Tool
 
-LLM-powered vulnerability analysis platform for enterprise software.
+LLM-powered vulnerability analysis platform for enterprise software and B2B environments.
 
-**2025.09 ~**
+**Period**
+
+2025.09 ~
+
+**Tech**
 
 `Python`
 `LLM`
@@ -204,9 +219,13 @@ LLM-powered vulnerability analysis platform for enterprise software.
 
 ## Blog Platform
 
-Full-stack blog platform with authentication, admin dashboard and password protection.
+Modern full-stack blog platform featuring authentication, admin dashboard, post management, and password protection.
 
-**2025.09 ~**
+**Period**
+
+2025.09 ~
+
+**Tech**
 
 `React`
 `TypeScript`
@@ -223,13 +242,18 @@ Full-stack blog platform with authentication, admin dashboard and password prote
 
 ## LLM SEMGREP User Input Tracking Tool
 
-Automatic Semgrep rule generation using LLM.
+Semgrep-based user input tracking system utilizing LLMs to automatically generate and improve security rules.
 
-**2025.09 ~ 2025.10**
+**Period**
+
+2025.09 ~ 2025.10
+
+**Tech**
 
 `PHP`
 `Semgrep`
 `LLM`
+`Regex`
 `Static Analysis`
 
 </td>
@@ -238,11 +262,16 @@ Automatic Semgrep rule generation using LLM.
 
 ## Goal Memo
 
-Personal productivity application.
+Goal tracking and memo application with real-time synchronization.
 
-**2025.09**
+**Period**
+
+2025.09
+
+**Tech**
 
 `React`
+`JavaScript`
 `Supabase`
 `Tailwind CSS`
 
@@ -256,28 +285,37 @@ Personal productivity application.
 
 ## LLM Zero-day Research
 
-AI-assisted zero-day vulnerability discovery framework.
+AI-powered framework for automated vulnerability discovery using Large Language Models.
 
-**2025.04 ~**
+**Period**
+
+2025.04 ~
+
+**Tech**
 
 `Python`
 `LLM`
 `AI`
-`Security`
+`Zero-day Research`
 
 </td>
 
 <td width="50%" valign="top">
 
-## CURT - Malicious URL Detection
+## CURT 1st - Malicious URL Detection
 
-Deep learning-based malicious URL detection system.
+Machine learning-based malicious URL detection system developed during the Korea University CURT program.
 
-**2025.04 ~ 2025.07**
+**Period**
+
+2025.04 ~ 2025.07
+
+**Tech**
 
 `Python`
-`XGBoost`
 `Flask`
+`XGBoost`
+`Scikit-learn`
 `Machine Learning`
 
 </td>
@@ -308,6 +346,8 @@ Deep learning-based malicious URL detection system.
 
 # Contact
 
+<p align="center">
+
 <a href="https://yd1ng.me">
 <img src="https://img.shields.io/badge/Website-yd1ng.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
@@ -315,3 +355,5 @@ Deep learning-based malicious URL detection system.
 <a href="https://yd1ng.me/posts">
 <img src="https://img.shields.io/badge/Blog-Posts-111827?style=for-the-badge&logo=markdown&logoColor=white"/>
 </a>
+
+</p>
