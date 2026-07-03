@@ -21,8 +21,6 @@ I'm an undergraduate student interested in offensive security, web security, and
 My primary interests include:
 
 - Web Application Security
-- API Security
-- Authentication & Authorization
 - Open Source Security
 - Vulnerability Research
 - AI-assisted Security Research
