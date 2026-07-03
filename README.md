@@ -1,5 +1,3 @@
-\<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=yd1ng&fontAlign=50&fontAlignY=40&color=0:111827,100:2563EB&fontColor=ffffff"/>
 
 ### Security Researcher • Web Security • Software Developer
