@@ -4,7 +4,7 @@
 
 ### Security Researcher • Web Security • Software Developer
 
-Building secure software through vulnerability research and offensive security.
+Security Researcher specializing in Web Security, Vulnerability Research, and AI-assisted Security Analysis.
 
 [![Website](https://img.shields.io/badge/Website-yd1ng.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yd1ng.me)
 [![Blog](https://img.shields.io/badge/Blog-Posts-111827?style=for-the-badge&logo=markdown&logoColor=white)](https://yd1ng.me/posts)
