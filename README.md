@@ -81,8 +81,6 @@ My primary interests include:
 ```text
 Web Application Security
 Open Source Security
-Authentication & Authorization
-Access Control
 Static Analysis
 AI-assisted Security Research
 Bug Bounty
