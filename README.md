@@ -157,17 +157,3 @@ Deep learning based malicious URL classification.
 `Python`
 `XGBoost`
 `Flask`
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yd1ng&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd1ng&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yd1ng&theme=github-dark&hide_border=true"/>
-</p>
