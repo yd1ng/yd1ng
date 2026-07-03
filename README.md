@@ -1,109 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Hi,%20I'm%20yd1ng%20👋&fontAlign=50&fontAlignY=40&color=0:0F172A,50:1E3A8A,100:38BDF8&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=yd1ng&fontAlign=50&fontAlignY=40&color=0:111827,100:2563EB&fontColor=ffffff"/>
 
-# Security Researcher • Bug Bounty Hunter
+### Security Researcher • Web Security • Software Developer
 
-**Building secure software by understanding how it breaks.**
+Building secure software through vulnerability research and offensive security.
 
-[![Website](https://img.shields.io/badge/Website-yd1ng.me-blue?style=for-the-badge)](https://yd1ng.me)
-[![Blog](https://img.shields.io/badge/Blog-Posts-black?style=for-the-badge)](https://yd1ng.me/posts)
+[![Website](https://img.shields.io/badge/Website-yd1ng.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yd1ng.me)
+[![Blog](https://img.shields.io/badge/Blog-Posts-111827?style=for-the-badge&logo=markdown&logoColor=white)](https://yd1ng.me/posts)
 
 </div>
 
 ---
 
-# About Me
+## About
 
-Undergraduate Student in Information Security
+I'm an undergraduate student interested in offensive security and secure software development.
 
-Passionate about Vulnerability Research & Bug Bounty
-
-Interested in Web Security, IAM, Cloud Security and Open Source
-
-Currently researching authentication and authorization vulnerabilities.
-
----
-
-# Security Research
+My primary interests include:
 
 - Web Application Security
 - API Security
-- OAuth / OpenID Connect
-- Access Control
-- Cloud Native Security
-- Source Code Review
+- Authentication & Authorization
+- Open Source Security
 - Vulnerability Research
-- Coordinated Vulnerability Disclosure
+- AI for Security
 
 ---
 
-# Tech Stack
+## Technical Skills
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-</p>
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Development
+
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Security
 
-<p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
-</p>
+![](https://img.shields.io/badge/Web_Security-111827?style=flat-square)
+![](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# Interests
+## Research Interests
 
-- Bug Bounty
-- CVE Research
+- Web Application Security
 - Open Source Security
+- Vulnerability Research
 - Authentication & Authorization
-- Cloud Native Security
 - Static Analysis
-- Fuzzing
+- AI-assisted Security Research
 
 ---
 
-# Currently Learning
+## Affiliation
 
-- Kubernetes Security
-- Cloud Native Security
-- Identity & Access Management
-- Binary Exploitation
-- Fuzzing
-- Static Analysis
+| Period | Organization |
+|---------|--------------|
+| 2026.04 ~ Present | Knights |
+| 2025.09 ~ 2026.04 | Knights Frontier 1st (Outstanding Completion) |
+| 2025.09 | Knock On 6th |
+| 2025.09 | Team Rubiya Lab |
+| 2025.03 ~ Present | Korea University |
+| 2022.03 ~ 2025.01 | Jangseong High School |
 
 ---
 
-# Connect
+## Awards
 
-<p>
+### 2026
 
-<a href="https://yd1ng.me">
-<img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
+- MIDNIGHT SUN CTF — 40 / 1,243 (Team Gwangju Boys)
+- CODEGATE — 45 / 388 (Team Knights)
+- ENKI REDTEAM CTF — 39 / 898
+- Hanyang University HCTF — 17 / 61 (Team We Bare Bears)
 
-<a href="https://yd1ng.me/posts">
-<img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 2023
 
+- Jeollanam-do SW Convergence Hackathon
+  - Superintendent of Education Award
+
+### 2022
+
+- Dacon Solar Power Generation Forecast AI Competition
+  - Silver Award
+
+---
+
+## Activities
+
+- INCOGNITO 2026 CTF
+  - Authored Hard Web Challenge
+
+---
+
+## Featured Projects
+
+### LLM-Based B2B Vulnerability Analysis Tool
+
+LLM-powered vulnerability analysis platform for enterprise software.
+
+**Stack**
+
+`Python` `LLM` `Security`
+
+---
+
+### Blog Platform
+
+Modern blog platform with authentication and admin dashboard.
+
+**Stack**
+
+`React` `TypeScript` `Supabase`
+
+---
+
+### LLM SEMGREP User Input Tracking Tool
+
+Static analysis tool that automatically generates Semgrep rules using LLM.
+
+**Stack**
+
+`PHP`
+`Semgrep`
+`LLM`
+
+---
+
+### LLM Zero-day Research
+
+AI-assisted vulnerability discovery framework.
+
+**Stack**
+
+`Python`
+`LLM`
+
+---
+
+### CURT — Malicious URL Detection
+
+Deep learning based malicious URL classification.
+
+**Stack**
+
+`Python`
+`XGBoost`
+`Flask`
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yd1ng&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd1ng&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
-
-<div align="center">
-
-> *"Finding vulnerabilities today, building safer software tomorrow."*
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=yd1ng&theme=github-dark&hide_border=true"/>
+</p>
