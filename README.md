@@ -16,7 +16,7 @@ Security Researcher specializing in Web Security, Vulnerability Research, and AI
 
 ## About
 
-I'm an undergraduate student interested in offensive security, web security, and secure software development.
+I'm an undergraduate student interested in offensive security, web security, and secure web development.
 
 My primary interests include:
 
