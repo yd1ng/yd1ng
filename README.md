@@ -13,19 +13,19 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🎓 Undergraduate Student in Information Security
+Undergraduate Student in Information Security
 
-🔍 Passionate about Vulnerability Research & Bug Bounty
+Passionate about Vulnerability Research & Bug Bounty
 
-🛡️ Interested in Web Security, IAM, Cloud Security and Open Source
+Interested in Web Security, IAM, Cloud Security and Open Source
 
-🌱 Currently researching authentication and authorization vulnerabilities.
+Currently researching authentication and authorization vulnerabilities.
 
 ---
 
-# 🔥 Security Research
+# Security Research
 
 - Web Application Security
 - API Security
@@ -38,7 +38,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -63,7 +63,7 @@
 
 ---
 
-# 🏆 Interests
+# Interests
 
 - Bug Bounty
 - CVE Research
@@ -75,21 +75,7 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yd1ng&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd1ng&layout=compact&hide_border=true&theme=github_dark"/>
-
-<img src="https://streak-stats.demolab.com?user=yd1ng&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
+# Currently Learning
 
 - Kubernetes Security
 - Cloud Native Security
@@ -100,7 +86,7 @@
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <p>
 
