@@ -75,7 +75,6 @@ My primary interests include:
 
 ![](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 ---
 
