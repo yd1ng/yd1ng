@@ -207,7 +207,6 @@ CVE-2026-14209
 **Tech**  
 `JavaScript` `React` `Supabase` `Tailwind CSS`
 
-[Repository](https://github.com/yd1ng/goal-memo)
 
 ---
 
@@ -233,7 +232,7 @@ CVE-2026-14209
 **Tech**  
 `Python` `XGBoost` `Scikit-learn` `Flask` `Machine Learning`
 
-[Repository](https://github.com/yd1ng/CURT-1st-Malicious-URL-Detection)
+
 
 ---
 
