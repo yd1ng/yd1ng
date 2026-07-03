@@ -29,8 +29,6 @@ My primary interests include:
 
 ## Technical Skills
 
-## Technical Skills
-
 ### Languages
 
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
